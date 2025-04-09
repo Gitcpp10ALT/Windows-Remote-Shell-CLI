@@ -1,5 +1,5 @@
-# Windows-Remote-Shell-CLI
-Windows Remote Shell is a remote shell built off the NotSSH remote shell! It uses the ArgParse library.
+# Windows-Remote-Reverse-Shell-CLI
+Windows Remote/Reverse Shell is a remote shell built off the NotSSH remote shell! It uses the ArgParse library.
 
 # Installation
 1. Download wrs.exe.
