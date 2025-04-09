@@ -1,5 +1,5 @@
-# Windows-Remote-Reverse-Shell-CLI
-Windows Remote/Reverse Shell is a remote shell built off the NotSSH remote shell! It uses the ArgParse library.
+# Windows-Remote-Shell-CLI
+Windows Remote Shell is a remote shell built off the NotSSH remote shell! It uses the ArgParse library.
 
 # Installation
 1. Download wrs.exe.
@@ -15,4 +15,4 @@ Windows Remote/Reverse Shell is a remote shell built off the NotSSH remote shell
 
 **NOTE: If the full output doesn't load, press enter until you see "Shell ~ C:\The\Current\Dir\You\Are\In"**
 # Usage
-wrs -ip [IP address] -p [PORT number] -c [connect] -l [listen]
+wrs -ip [IP address] -p [PORT number] -c [connect] -l [listen] -f [listen forever flag]
