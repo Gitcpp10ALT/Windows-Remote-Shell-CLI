@@ -12,6 +12,6 @@ Windows Remote/Reverse Shell is a remote shell built off the NotSSH remote shell
 8. Click OK until all those windows close.
 9. Go to PowerShell or Command Prompt
 10. Now you can use the wrs command!
-NOTE: If the full output doesn't load, press enter until you see "Shell ~ C:\The\Current\Dir\You\Are\In"
+**NOTE: If the full output doesn't load, press enter until you see "Shell ~ C:\The\Current\Dir\You\Are\In"**
 # Usage
 wrs -ip [IP address] -p [PORT number] -c [connect] -l [listen]
