@@ -14,7 +14,9 @@ Windows Remote Shell is a remote shell built off the NotSSH remote shell! It use
 10. Now you can use the wrs command!
 
 **NOTE: Same process for PowerShell Install**
+#
 **NOTE: If the full output doesn't load, press enter until you see "Shell ~ C:\The\Current\Dir\You\Are\In"**
+
 # Usage
 wrs/prs/lrs -ip [IP address] -p [PORT number] -c [connect] -l [listen] -f [listen forever flag]
 # Linux Installation (Debian)
