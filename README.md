@@ -21,4 +21,4 @@ wrs -ip [IP address] -p [PORT number] -c [connect] -l [listen] -f [listen foreve
 2. Go to the directory where downloaded and open the terminal there.
 3. Run the command "sudo dpkg -i NotSSH-server_debian.deb/lrs-package.deb".
 4. Go to the directory /usr/local/bin and the install will be there.
-5. To execute, run ./NotSSH-server_debian.deb/lrs-package.deb
+5. To execute, run ./ <name_of_install>
