@@ -16,7 +16,7 @@ Windows Remote Shell is a remote shell built off the NotSSH remote shell! It use
 **NOTE: Same process for PowerShell Install**
 **NOTE: If the full output doesn't load, press enter until you see "Shell ~ C:\The\Current\Dir\You\Are\In"**
 # Usage
-wrs -ip [IP address] -p [PORT number] -c [connect] -l [listen] -f [listen forever flag]
+wrs/prs/lrs -ip [IP address] -p [PORT number] -c [connect] -l [listen] -f [listen forever flag]
 # Linux Installation (Debian)
 1. Go to Linux Packages and download one of the files.
 2. Go to the directory where downloaded and open the terminal there.
