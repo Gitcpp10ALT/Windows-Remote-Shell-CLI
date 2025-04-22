@@ -13,6 +13,7 @@ Windows Remote Shell is a remote shell built off the NotSSH remote shell! It use
 9. Go to PowerShell or Command Prompt
 10. Now you can use the wrs command!
 
+**NOTE: Same process for PowerShell Install**
 **NOTE: If the full output doesn't load, press enter until you see "Shell ~ C:\The\Current\Dir\You\Are\In"**
 # Usage
 wrs -ip [IP address] -p [PORT number] -c [connect] -l [listen] -f [listen forever flag]
