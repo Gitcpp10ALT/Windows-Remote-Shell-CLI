@@ -1,6 +1,6 @@
 # Windows/Linux-Remote-Shell-CLI
 Windows Remote Shell is a remote shell built off the NotSSH remote shell! It uses the ArgParse library.
-**WARNING: DO NOT DOWNLOAD THE RAW FILE, IT WILL NOT WORK. DOWNLOAD THE ZIP: WINDOWS USERS ONLY.
+**WARNING: DO NOT DOWNLOAD THE RAW FILE, IT WILL NOT WORK. DOWNLOAD THE ZIP: WINDOWS USERS ONLY.**
 # Installation
 1. Download Windows+Powershell Remote Shell.zip and extract
 2. Copy the file and paste wrs.exe into a folder you want it to stay in.
